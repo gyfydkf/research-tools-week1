@@ -19,6 +19,8 @@ python -m unittest discover -s code -p "test_*.py" -v
 
 程序只使用 Python 标准库。报告使用 XeLaTeX 编译，实验图采用 PDF 矢量格式。
 
+远程更新记录：已在另一工作副本补充本行，用于验证 `git pull` 同步流程。
+
 ## 安全说明
 
 仓库不保存 API Key、访问令牌、`auth.json` 或个人 Codex 配置。提交前请再次检查截图和差异。
