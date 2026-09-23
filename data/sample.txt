@@ -1,0 +1,5 @@
+Git helps researchers record code changes. Git makes experiments reproducible.
+Codex can read code, explain code, and modify code after the user reviews the plan.
+LaTeX produces clear reports, while vector figures stay sharp when enlarged.
+Researchers should inspect status and diff before every commit, then push verified work.
+Git Codex LaTeX Git code experiment report vector code Git.

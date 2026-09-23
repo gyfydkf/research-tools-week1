@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+.codex/
+auth.json
+*.key
+.env
+tools/
